@@ -1,4 +1,4 @@
-<img width="367" height="514" alt="Screenshot 2026-03-13 141412" src="https://github.com/user-attachments/assets/8c4c482d-4a71-4002-8d40-1a7ee979e7c0" /># EXP-6
+# EXP-6
 EXP No. :6 			CHARACTERISTICS M OF LVDT
 AIM:To measure output voltage w.r.t the displacement of the core on the LVDT kit and
 find the graphical relationship between the two.
